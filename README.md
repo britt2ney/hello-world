@@ -3,4 +3,4 @@ First Git Repository
 
 Happy to be here :)
 
-This is a tutorial project.
+This is a tutorial repository.
